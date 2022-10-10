@@ -1,4 +1,4 @@
-string=input("enter the string: ")
+string="Hi......"
 lis=string.split()
 emp=" "
 for i in lis:
